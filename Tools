@@ -1,0 +1,19 @@
+Install Terraform CLI
+
+https://developer.hashicorp.com/terraform/install
+
+Install Azure CLI
+
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+Install VS Code Editor
+
+https://code.visualstudio.com/download
+
+Install HashiCorp Terraform plugins for VS Code
+
+https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+
+Install Git Client
+
+https://git-scm.com/downloads
